@@ -1,0 +1,4 @@
+### Translator
+
+##### Requirements
+- firefox
