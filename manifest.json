@@ -2,8 +2,8 @@
     "manifest_version": 2,
     "name": "Translator",
     "description": "Add a context menu option to selections to translate the selection.",
-    "version": "1.0",
-    "homepage_url": "https://github.com/gemorroj/translator",
+    "version": "0.0.1",
+    "homepage_url": "https://github.com/Gemorroj/extension-translator",
 
     "applications": {
         "gecko": {
