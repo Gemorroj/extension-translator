@@ -9,7 +9,6 @@ browser.contextMenus.create({
 
 
 browser.contextMenus.onClicked.addListener((info, tab) => {
-    console.log(info);
     if (info.menuItemId !== "translate") {
         return;
     }
